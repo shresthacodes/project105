@@ -14,6 +14,8 @@ Before:
 
 After:
 <img width="1069" alt="Screenshot 2023-12-03 at 6 28 50 PM" src="https://github.com/shresthacodes/project105/assets/138806766/a57abb01-4f74-44fa-a967-99efeb89c892">
+## Report
+[View my Internship report](https://github.com/shresthacodes/project105/files/13557166/report_1CR21CS171_compressed.pdf)
 
 ## resources
 
