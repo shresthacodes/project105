@@ -1,7 +1,7 @@
 
 # project105
 
-This is my internship project - Sentiment Analysis Of Lockdown In India During Covid-19 A Case Study On Twitter using ML
+Sentiment Analysis Of Lockdown In India During Covid-19 A Case Study On Twitter using ML
 
 view it on google colab - https://colab.research.google.com/drive/1JMEWbVWrJ4tQlU00_FZQrZy2BccO3QOJ?usp=drive_link
 
